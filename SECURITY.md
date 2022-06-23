@@ -1,5 +1,14 @@
-If you have found a potential security vulnerability in RAPIDS, please let us know as soon as possible. We will do our best to quickly fix the problem.
+ ## Security
 
-To report a security vulnerability for this repository, please email PSIRT@nvidia.com.
+NVIDIA is dedicated to the security and trust of our software products and services, including all source code repositories managed through our organization.
 
-To see more details on NVIDIA's security response policies, please see https://www.nvidia.com/en-us/security/psirt-policies/.
+If you need to report a security issue, please use the appropriate contact points outlined below. **Please do not report security vulnerabilities through GitHub/GitLab.**
+
+## Reporting Potential Security Vulnerability in RAPIDS
+
+To report a potential security vulnerability in RAPIDS:
+- Web: [Security Vulnerability Submission Form](https://www.nvidia.com/object/submit-security-vulnerability.html)
+- E-Mail: psirt@nvidia.com
+- We encourage you to use the following PGP key for secure email communication: [NVIDIA public PGP Key for communication](https://www.nvidia.com/en-us/security/pgp-key)
+- Please include the following information:
+   	 - Product/Driver name and version/branch that contains the vulnerability
